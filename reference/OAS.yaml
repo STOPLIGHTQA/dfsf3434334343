@@ -5,7 +5,7 @@ info:
   version: '1.0'
   title: account-details
   summary: Permite obtener detalle de cuenta de cliente
-  description: 'Servicio desarrollado que permite obtener detalle de cuenta de cliente, sus datos y saldos con monto de sobregiro disponible si aplica obtenidos desde AS400.'
+  description: 'daddaServicio desarrollado que permite obtener detalle de cuenta de cliente, sus datos y saldos con monto de sobregiro disponible si aplica obtenidos desde AS400.'
   contact:
     name: ''
     url: ''
